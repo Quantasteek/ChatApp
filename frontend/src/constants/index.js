@@ -1,0 +1,1 @@
+export const Themes=["light", "dark", "cupcake", "retro", "coffee", "halloween", "corporate", "synthwave", "cyberpunk", "valentine", "garden", "forest", "aqua", "lofi", "pastel", "fantasy", "wireframe", "black", "luxury", "dracula", "cmyk", "autumn", "business", "acid", "lemonade", "night", "coffee", "winter", "dim", "nord", "sunset"];
