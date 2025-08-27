@@ -14,7 +14,7 @@ app.use(cors({origin: "http://localhost:5173", credentials:true}))
 
 app.use('/api/auth', authRoutes)
 const port = process.env.PORT || 3001
-app.use('/api/message', messageRoutes);
+app.use('/api/messages', messageRoutes);
 
 app.listen(port, ()=>{
     console.log(`Server listening on PORT ${port}`);
